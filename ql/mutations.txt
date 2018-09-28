@@ -1,0 +1,6 @@
+mutation{
+  addDuel(_id:"5b6b2cbd7525b0be68e50fa7", friendId:"5b6b2c8e7525b0be68e50fa6", name:"Frist duel"){
+    error,
+    message
+  }
+}
